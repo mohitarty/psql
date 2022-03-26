@@ -16,10 +16,10 @@
 		"operatorsAliases": 0
 	},
   "production": {
-		"username": "postgres",
-		"password": "admin",
-		"database": "demo",
-		"host": "localhost",
+		"username": "gjlyxfaoevgphe",
+		"password": "Edit@123",
+		"database": "d25k13nq2fn1ic",
+		"host": "34.238.194.32",
 		"dialect": "postgres",
 		"operatorsAliases": 0,
 		"use_env_variable": "DATABASE_URL"
