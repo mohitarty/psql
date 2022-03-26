@@ -17,9 +17,9 @@
 	},
   "production": {
 		"username": "gjlyxfaoevgphe",
-		"password": "Edit@123",
+		"password": "a8a563f88c0b4d2a8a313e65ea2952423d60065f5f3152ffdd89143275b2d49c",
 		"database": "d25k13nq2fn1ic",
-		"host": "34.238.194.32",
+		"host": "ec2-54-160-109-68.compute-1.amazonaws.com",
 		"dialect": "postgres",
 		"operatorsAliases": 0,
 		"use_env_variable": "DATABASE_URL"
