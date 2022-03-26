@@ -16,12 +16,18 @@
 		"operatorsAliases": 0
 	},
   "production": {
-		"username": "gjlyxfaoevgphe",
-		"password": "a8a563f88c0b4d2a8a313e65ea2952423d60065f5f3152ffdd89143275b2d49c",
-		"database": "d25k13nq2fn1ic",
-		"host": "ec2-54-160-109-68.compute-1.amazonaws.com",
+		"username": "postgres",
+		"password": "admin",
+		"database": "demo",
+		"host": "localhost",
 		"dialect": "postgres",
 		"operatorsAliases": 0,
-		"use_env_variable": "DATABASE_URL"
+		"use_env_variable": "DATABASE_URL",
+		"dialectOptions": {
+			"ssl": {
+				"require": true, 
+				"rejectUnauthorized": false
+			}
+		}
 	}
 }
